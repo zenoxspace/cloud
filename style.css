@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: none;
+  padding: 0px;
+  text-align: LEFT;
+  font-size: 10px;
+  color: white;
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 10;
+  background:  #F7FAFF;
+  width: 97%;
+  border: 4;
+  margin: 0 0 0px;
+  padding: 6px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  font-size: 14px;
+}
+.login-page {
+  width: 350px;
+  padding: 3% 0 0;
+  margin: auto;
+  border: 4;
+}button {
+}button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 4px 9px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 1px 1px;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 13px;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #white;
+   color: white;
+   text-align: right;
+   font-size: 13px;
+   
+.body {
+  background-image: url(https://acrobat.adobe.com/content/dam/dx-dc/images/dc-identity.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
